@@ -1,0 +1,10 @@
+body {
+  background: orange;
+  display: flex;
+  flex-direction: column;
+}
+img {
+  height: 200px;
+  width: 300px;
+  background-color: blue;
+}
